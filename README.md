@@ -11,4 +11,7 @@ e estou tendo que escrever isso
 exatamente as 12:27
 de uma sexta feira
 gosto de sair com meus amigos de fim de semana
-e minha cor favorita e azul<p>
+e minha cor favorita e azul.</p>
+
+
+<p>nasci em londrina a 15 ano a tras atualmente moro co minha mae, tia e meu avo</p>
