@@ -6,3 +6,5 @@
 <p>e estou tendo que escrever isso<p>
 <p>exatamente as <strong>12:27<strong><p>
 <p>de uma sexta feira<p>
+<p>gosto de sair com meus amigos de fim de semana<p>
+<p>e minha cor favorita e azul<p>
